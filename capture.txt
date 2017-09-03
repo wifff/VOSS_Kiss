@@ -1,0 +1,1728 @@
+infoinfo
+KISS ESC24A Version:   108f
+Manufacturer: Flyduino.net
+Dev.: Felix Niessen
+S/N: 20353430-58335711-00580031
+Max. used Voltage:   1165
+Current limit (A):    30
+info
+KISS ESC24A Version:   108f
+Manufacturer: Flyduino.net
+Dev.: Felix Niessen
+S/N: 20353430-58335711-00580031
+Max. used Voltage:   1165
+Current limit (A):    30
+help
+KISS ESC24A Version:   108f
+Manufacturer: Flyduino.net
+Dev.: Felix Niessen
+S/N: 20353430-58335711-00580031
+Max. used Voltage:   1165
+Current limit (A):    30
+tlm
+>tlm: print telemetrie
+>rest: restore defaults
+>info: system information
+>CLxx: set Current limitwhere xx can be 01-30A 
+>MaxT: Enable or Disable Max Thrust
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      910
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      912
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+Temperature [C]:       29
+Voltage [V/100]:      911
+Ampere [A/100]:         0
+Consumption [mA/h]:     0
+E-RPM [krpm]:           0
+Timing [deg.]:          0
+Throttle [%]:           0
+Startuptime [ms]:       0
+
+
+
+
+
+
+
+
+
+
