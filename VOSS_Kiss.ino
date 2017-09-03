@@ -1,6 +1,10 @@
 /* 
-  VOSS - Versatile Open Source Sensor for Teensy (not for Arduino as we need two HW UARTs)
+  VOSS_KISS - Versatile Open Source Sensor for KISS 24A power controllers
+  Teensy-only (not for Arduino as we need two HW UARTs)
   Copyright (C) 2017 Wolfgang Korosec
+  
+  The Kiss 24A is a very powerful brushless controller originally built for multicopter drones.
+  It can be also used in fixed wing airplanes - especially in gliders where freewheeling is not required.  
   
   Based on the brilliant JetiExSensor library written by Bernd Wokoeck
   Extended notice on additional work and copyrights, see headers of included files and libraries
